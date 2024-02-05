@@ -6,12 +6,21 @@
 </div>
 
 #### Skills
-<div> 
+
+<div style="display: inline_block"><br>
   <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> 
   	<a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Zabbix-red?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/ShellScript-black?style=for-the-badge&logo=medium&logoColor=white"></a>
+<br><br>
+
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
+  ##
 
  <div>
   <a href="https://github.com/marsselu">
