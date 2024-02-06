@@ -1,8 +1,7 @@
 <!--  ![Header](./github-header-image.png) -->
 
   **Olá, sou Marcelo Santos, profissional de tecnologia da informação!!**
-
-    Obrigado por visitar meu perfil do GitHub 
+  Obrigado por visitar meu perfil do GitHub 
 
 
 #### Contacts
