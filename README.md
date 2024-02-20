@@ -30,7 +30,7 @@
 
  
  
-   [![Marcelo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marsselu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=marsselu&theme=chalk&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
     
   ![Snake animation](https://github.com/marsselu/marsselu/blob/output/github-contribution-grid-snake.svg)
 </div>
