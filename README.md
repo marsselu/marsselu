@@ -26,19 +26,19 @@
   <a href="https://github.com/marsselu">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&layout=compact&langs_count=7&theme=dracula"/>
+
+  <figure><embed src="https://wakatime.com/share/@marsselu/46c784d9-c912-4cea-8611-cd295cabec28.svg"></figure>
+
+
+  ![Snake animation](https://github.com/marsselu/marsselu/blob/output/github-contribution-grid-snake.svg)
+
+
 <<<<<<< HEAD
-  
-  <figure> <embed> src="https://wakatime.com/share/@marsselu/46c784d9-c912-4cea-8611-cd295cabec28.svg"> </embed> </figure>
 
 
 =======
 
- 
- 
 
-    
->>>>>>> 5a83299a14969727296bd45b50588e4b6bfc58db
-  ![Snake animation](https://github.com/marsselu/marsselu/blob/output/github-contribution-grid-snake.svg)
 
 
 
