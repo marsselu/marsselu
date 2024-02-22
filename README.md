@@ -28,8 +28,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&layout=compact&langs_count=7&theme=dracula"/>
   
-  <figure><embed src="https://wakatime.com/share/@marsselu/46c784d9-c912-4cea-8611-cd295cabec28.svg">
-
+[  <figure><embed src="https://wakatime.com/share/@marsselu/46c784d9-c912-4cea-8611-cd295cabec28.svg">](https://wakatime.com/dashboard)
+  
   ![Snake animation](https://github.com/marsselu/marsselu/blob/output/github-contribution-grid-snake.svg)
 </div>
 
