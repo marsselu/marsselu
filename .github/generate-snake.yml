@@ -2,18 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # roda a cada 12h
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # executa a cada 12h
+  workflow_dispatch:        # permite rodar manualmente
+
+permissions:
+  contents: write  # necessário para publicar o resultado
 
 jobs:
   build:
+    name: Gerar animação da cobra
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
+      - name: Gerar Snake (modo escuro e claro)
+        id: snake
         uses: Platane/snk@v3
         with:
           github_user_name: marsselu
@@ -21,8 +26,8 @@ jobs:
             output/snake-dark.svg?palette=github-dark
             output/snake-light.svg?palette=github-light
 
-      - name: Push changes
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publicar SVG na branch output
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: output
