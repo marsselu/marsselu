@@ -23,14 +23,12 @@
   
   ##
 
- <div>
-  <a href="https://github.com/marsselu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&layout=compact&langs_count=7&theme=dracula"/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marsselu/marsselu/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marsselu/marsselu/output/snake-light.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/marsselu/marsselu/output/snake-light.svg" />
+</picture>
 
-  
-  ![Snake animation](https://github.com/marsselu/marsselu/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 
 
