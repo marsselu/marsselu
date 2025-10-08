@@ -22,18 +22,9 @@ Atualmente estudando **Docker**, **Kubernetes**, **CI/CD** e **automação de in
 
 ## 📊 Estatísticas do GitHub  
 
-<div align="center">
-
-<!-- Stats -->
-<a href="https://github.com/marsselu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-
-<!-- Linguagens com porcentagem -->
-<a href="https://github.com/marsselu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&custom_title=Linguagens+Mais+Usadas&card_width=420"/>
-</a>
-
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&layout=compact&langs_count=10&theme=tokyonight&custom_title=Linguagens+Mais+Usadas&card_width=350" alt="Linguagens mais usadas"/>
 </div>
 
 ---
