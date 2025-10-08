@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello+World!+🌍" alt="Hello World Typing SVG" />
 </h1>
 
+<!-- Header / animação Hello World -->
+<h1 align="center">
+  <img src="./assets/hello-world.svg" alt="Hello World Typing SVG" />
+</h1>
+
 
   **Olá, sou Marcelo Santos, profissional de tecnologia da informação!!**
 
