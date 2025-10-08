@@ -3,36 +3,42 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello+World!+🌍;Bem-vindo+ao+meu+perfil+👋" alt="Typing SVG" />
 </h1>
 
----
+<!--  ![Header](./github-header-image.png) -->
 
-## 👨‍💻 Sobre mim  
-Olá, eu sou **Marcelo Santos** — entusiasta de tecnologia e DevOps em aprendizado contínuo 🚀  
-Atualmente estudando **Docker**, **Kubernetes**, **CI/CD** e **automação de infraestrutura**.
+**Olá, sou Marcelo Santos, profissional de tecnologia da informação!!**
 
----
-
-## 🧠 Tecnologias & Ferramentas
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+Obrigado por visitar meu perfil do GitHub 👋
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&layout=compact&langs_count=10&theme=tokyonight&custom_title=Linguagens+Mais+Usadas&card_width=350" alt="Linguagens mais usadas"/>
+#### 📫 Contacts
+<div> 
+  <a href="https://www.linkedin.com/in/marcelofsantos/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
 ---
 
-## 📫 Contato
-📧 **Email:** devop@marceleza.com  
-💼 [LinkedIn](https://www.linkedin.com/in/marsselu)  
-🌐 [GitHub](https://github.com/marsselu)
+#### 🧠 Skills
+<div style="display: inline_block">
+  <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
+  <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Zabbix-red?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/ShellScript-black?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/marsselu">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&layout=compact&langs_count=10&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
