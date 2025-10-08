@@ -2,7 +2,7 @@
 
 <!-- Header / animação Hello World -->
 <h1 align="center">
-  <img src="./assets/hello-world.svg" alt="Hello World Typing SVG" />
+  <img src="./assets/hello-world.svg" alt="_id" />
 </h1>
 
 
