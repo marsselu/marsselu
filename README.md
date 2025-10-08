@@ -1,9 +1,10 @@
 <!--  ![Header](./github-header-image.png) -->
 
 <!-- Header / animação Hello World -->
-<h1 align="center">
+
+<!--<h1 align="center">
   <img src="./assets/hello-world.svg" alt="_id" />
-</h1>
+</h1>-->
 
 
   **Olá, sou Marcelo Santos, profissional de tecnologia da informação!!**
