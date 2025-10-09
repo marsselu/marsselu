@@ -1,4 +1,9 @@
-<img src="./assets/chat.svg" alt="Typing animation" />
+
+<h1 align="center">
+  <img src="./assets/chat.svg" alt="Typing animation" />
+</h1>
+
+
 
 
 ### Hi there 👋
