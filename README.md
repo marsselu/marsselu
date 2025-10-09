@@ -36,11 +36,11 @@
 
 </p>
 
-- 😄 I have interests in HPC/Generative AI/Web3/RPA
+<!--- 😄 I have interests in HPC/Generative AI/Web3/RPA
 - 🔭 I’m currently working on ChatGPT integrations
 - 🌱 I’m currently learning Langchain and Mediachain
 - 👯 I’m looking to collaborate on ChatGPT/AI/Blockchain
-
+-->
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ishan+Dutta" alt="Ishan" /></a>
