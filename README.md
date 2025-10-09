@@ -44,7 +44,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-<a href="https://linkedin.com/in/marcelofsantos"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg"/></a>
+<a href="https://linkedin.com/in/marcelofsantos"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" style="filter: invert(32%) sepia(90%) saturate(4200%) hue-rotate(193deg) brightness(95%) contrast(90%);"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/marsselu"><img width="32px" alt="Dev.to" title="marsselu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
