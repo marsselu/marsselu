@@ -44,9 +44,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://linkedin.com/in/marcelofsantos">
-  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/>
-</a>
+  <a href="https://linkedin.com/in/marcelofsantos"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/></a>
   <a href="https://twitter.com/marsselu"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/jc4xtF58Ve" alt="Discord" title="Sinularity Labs Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
