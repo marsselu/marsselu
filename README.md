@@ -1,10 +1,3 @@
-
-<h1 align="center">
-    <img src="./assets/chat.svg" alt="Typing animation" />
-  </h1>
-
-
-
 <h1 align="center">
   <img src="./assets/chat_line1.svg" />
   <img src="./assets/chat_line2.svg" />
