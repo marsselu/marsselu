@@ -28,7 +28,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/marsselu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 
-<!-->
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marsselu)]
 -->
 
