@@ -1,0 +1,11 @@
+curl 'https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=800&lines=Hi,+I'\''m+Marcelo!' -o assets/chat_line1.svg
+
+curl 'https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=00BFFF&width=800&lines=experienced+IT+professional+specialized+in+infrastructure' -o assets/chat_line2.svg
+
+curl 'https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00BFFF&width=800&lines=currently+using+docker,+kubernetes+and+devops+to+automation+and+resilient+applications+and+tech+environments' -o assets/chat_line3.svg
+
+curl 'https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=4000&color=00BFFF&width=800&lines=tech+speaker,+writer+and+teacher' -o assets/chat_line4.svg
+
+curl 'https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=00BFFF&width=800&lines=certified+Devops,+AWS,+Scrum' -o assets/chat_line5.svg
+
+curl 'https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=6000&color=00BFFF&width=800&lines=DevopsDays+Salvador+voluntary' -o assets/chat_line6.svg
