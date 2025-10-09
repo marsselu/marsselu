@@ -1,8 +1,18 @@
 
 <h1 align="center">
-  <img src="./assets/chat.svg" alt="Typing animation" />
-</h1>
+    <img src="./assets/chat.svg" alt="Typing animation" />
+  </h1>
 
+
+
+<h1 align="center">
+  <img src="./assets/chat_line1.svg" />
+  <img src="./assets/chat_line2.svg" />
+  <img src="./assets/chat_line3.svg" />
+  <img src="./assets/chat_line4.svg" />
+  <img src="./assets/chat_line5.svg" />
+  <img src="./assets/chat_line6.svg" />
+</h1>
 
 
 
