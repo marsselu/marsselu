@@ -1,5 +1,12 @@
+<img src="./assets/chat.svg" alt="Typing animation" />
+
+
 ### Hi there 👋
 [![](https://github.com/marsselu/marsselu/blob/main/chat.svg)] (https://linkedin.com/in/marcelofsantos)
+
+
+
+
 
 
  <h3 align="center">A techie passionate about AI & Blockchain</h3>

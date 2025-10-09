@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+    text { font-family: 'Fira Code', monospace; font-size: 20px; fill: #00BFFF; }
+    .line { opacity: 0; }
+  </style>
+
+  <text x="10" y="30" class="line">
+    <tspan id="line1">Hi, I'm Marcelo</tspan>
+  </text>
+  <text x="10" y="55" class="line">
+    <tspan id="line2">Experienced IT professional specialized in infrastructure</tspan>
+  </text>
+  <text x="10" y="80" class="line">
+    <tspan id="line3">Currently using Docker, Kubernetes and DevOps to automate resilient applications and tech environments</tspan>
+  </text>
+  <text x="10" y="105" class="line">
+    <tspan id="line4">Tech speaker, writer and teacher</tspan>
+  </text>
+  <text x="10" y="130" class="line">
+    <tspan id="line5">Certified DevOps, AWS, Scrum</tspan>
+  </text>
+  <text x="10" y="155" class="line">
+    <tspan id="line6">DevOpsDays Salvador voluntary</tspan>
+  </text>
+
+  <!-- Animação de cada linha -->
+  <animate attributeName="opacity" values="0;1" begin="0s" dur="1.5s" fill="freeze" xlink:href="#line1"/>
+  <animate attributeName="opacity" values="0;1" begin="1.6s" dur="1.5s" fill="freeze" xlink:href="#line2"/>
+  <animate attributeName="opacity" values="0;1" begin="3.2s" dur="1.5s" fill="freeze" xlink:href="#line3"/>
+  <animate attributeName="opacity" values="0;1" begin="5s" dur="1.5s" fill="freeze" xlink:href="#line4"/>
+  <animate attributeName="opacity" values="0;1" begin="6.6s" dur="1.5s" fill="freeze" xlink:href="#line5"/>
+  <animate attributeName="opacity" values="0;1" begin="8.2s" dur="1.5s" fill="freeze" xlink:href="#line6"/>
+
+  <!-- Apagar tudo e reiniciar -->
+  <animate attributeName="opacity" values="1;0" begin="10s" dur="2s" repeatCount="indefinite" xlink:href="#line1"/>
+  <animate attributeName="opacity" values="1;0" begin="10s" dur="2s" repeatCount="indefinite" xlink:href="#line2"/>
+  <animate attributeName="opacity" values="1;0" begin="10s" dur="2s" repeatCount="indefinite" xlink:href="#line3"/>
+  <animate attributeName="opacity" values="1;0" begin="10s" dur="2s" repeatCount="indefinite" xlink:href="#line4"/>
+  <animate attributeName="opacity" values="1;0" begin="10s" dur="2s" repeatCount="indefinite" xlink:href="#line5"/>
+  <animate attributeName="opacity" values="1;0" begin="10s" dur="2s" repeatCount="indefinite" xlink:href="#line6"/>
+</svg>
