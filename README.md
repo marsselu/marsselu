@@ -197,11 +197,13 @@
 
 </details>
 
+<!-- ALTERAR PARA MEU GOSTO
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-
+ALTERAR PARA MEU GOSTO-->
+  
   <!-- GitHub Readme Streak Stats - https://github.com/marsselu/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/marsselu/github-readme-streak-stats">
@@ -210,12 +212,14 @@
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
+  <!-- ALTERAR PARA MEU GOSTO
   <h3>💻 GitHub Profile Stats</h3>
+  -->
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- https://github.com/marsselu/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="marsselu's Github Stats" src="https://marsselu-github-readme-stats.vercel.app/api/?username=marsselu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="marsselu's Top Languages" src="https://marsselu-github-readme-stats.vercel.app/api/top-langs/?username=marsselu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/marsselu/github-readme-stats"><img alt="marsselu's Github Stats" src="https://marsselu-github-readme-stats.vercel.app/api/?username=marsselu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/marsselu/github-readme-stats"><img alt="marsselu's Top Languages" src="https://marsselu-github-readme-stats.vercel.app/api/top-langs/?username=marsselu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -413,6 +417,7 @@
 <img src="https://raw.githubusercontent.com/marsselu/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 
+<!-- ALTERAR PARA MEU GOSTO
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -480,7 +485,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 </div>  
-
+ALTERAR PARA MEU GOSTO-->
 <br/>  
 
 # 📊 GitHub Stats:
@@ -488,12 +493,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marsselu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marsselu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=marsselu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 
 
 <br/>  
