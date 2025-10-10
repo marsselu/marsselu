@@ -408,7 +408,7 @@ ALTERAR PARA MEU GOSTO-->
 
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
+<a href="https://wakatime.com/@marsselu"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=marsselu&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@marsselu's wakatime stats"/></a>
 <a href="https://github.com/marsselu?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=marsselu&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
@@ -416,11 +416,13 @@ ALTERAR PARA MEU GOSTO-->
 
 
 
+<!-- ALTERAR PARA MEU GOSTO
 <p align="center">
 <a href="https://gist.github.com/marsselu"><img src="https://profile-counter.glitch.me/{marsselu}/count.svg" alt="marsselu :: Visitor's Count" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/marsselu/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+ALTERAR PARA MEU GOSTO-->
 
 
 <!-- ALTERAR PARA MEU GOSTO
