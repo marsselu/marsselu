@@ -36,11 +36,12 @@
 
 
 
-
+<!-- ALTERAR PARA ANIMACAO JA FEITA
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ishan+Dutta" alt="Ishan" /></a>
   <a href="https://github.com/marsselu/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ChatGPT/AI/Blockchain;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+ -->
 
 <!-- Social icons section -->
 <p align="center">
@@ -84,6 +85,7 @@
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
+  <!-- ALTERAR PARA MEU GOSTO
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -111,7 +113,10 @@
       <a href="https://github.com/search?q=user%3Amarsselu+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Amarsselu+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
+    -->
 
+      
+  <!-- ALTERAR PARA MEU GOSTO
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
@@ -141,7 +146,9 @@
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
+   ALTERAR PARA MEU GOSTO-->
 
+  <!-- ALTERAR PARA MEU GOSTO
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
@@ -157,7 +164,9 @@
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
-
+  ALTERAR PARA MEU GOSTO-->
+  
+  <!-- ALTERAR PARA MEU GOSTO
   <h3>💻 Software and Tools</h3>
 
   <p>
@@ -184,6 +193,8 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+  ALTERAR PARA MEU GOSTO-->
+
 </details>
 
 <details> 
