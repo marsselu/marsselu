@@ -10,7 +10,7 @@
 -->
 
 
-[![](https://github.com/marsselu/marsselu/blob/main/chat.svg)]
+![](https://github.com/marsselu/marsselu/blob/main/chat.svg)
 
 
 
