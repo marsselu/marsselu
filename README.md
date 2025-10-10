@@ -204,13 +204,14 @@
   <h3>🔥 Streak Stats</h3>
 ALTERAR PARA MEU GOSTO-->
   
-  <!-- GitHub Readme Streak Stats - https://github.com/marsselu/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https://github.com/marsselu/github-readme-streak-stats 
   <p>
     <a href="https://github.com/marsselu/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="marsselu's streak" src="https://streak-stats.demolab.com/?user=marsselu&theme=monokai-metallian&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
+  ALTERAR -->
 
   <!-- ALTERAR PARA MEU GOSTO
   <h3>💻 GitHub Profile Stats</h3>
@@ -222,7 +223,10 @@ ALTERAR PARA MEU GOSTO-->
   <a href="https://github.com/marsselu/github-readme-stats"><img alt="marsselu's Top Languages" src="https://marsselu-github-readme-stats.vercel.app/api/top-langs/?username=marsselu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+   <!-- ALTERAR PARA MEU GOSTO
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  ALTERAR PARA MEU GOSTO-->
+
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
