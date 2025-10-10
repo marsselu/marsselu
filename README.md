@@ -407,10 +407,12 @@ ALTERAR PARA MEU GOSTO-->
 <!-- activity graph heroku-app end -->
 
 
+<!-- ALTERAR PARA MEU GOSTO
 <p align="center">
 <a href="https://wakatime.com/@marsselu"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=marsselu&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@marsselu's wakatime stats"/></a>
 <a href="https://github.com/marsselu?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=marsselu&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
+ALTERAR PARA MEU GOSTO-->
 
 
 
