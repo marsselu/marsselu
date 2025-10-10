@@ -230,25 +230,28 @@ ALTERAR PARA MEU GOSTO-->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="marsselu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=marsselu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
+  <!--ALTERAR<h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
+ https://github.com/jamesgeorge007/github-activity-readme 
+START_SECTION:activity
+  
 
 1. 🎉 Merged PR [#148](https://github.com/marsselu/github-readme-youtube-cards/pull/148) in [marsselu/github-readme-youtube-cards](https://github.com/marsselu/github-readme-youtube-cards)
 2. 🎉 Merged PR [#619](https://github.com/marsselu/github-readme-streak-stats/pull/619) in [marsselu/github-readme-streak-stats](https://github.com/marsselu/github-readme-streak-stats)
 3. 🗣 Commented on [#619](https://github.com/marsselu/github-readme-streak-stats/issues/619) in [marsselu/github-readme-streak-stats](https://github.com/marsselu/github-readme-streak-stats)
 4. 🗣 Commented on [#618](https://github.com/marsselu/github-readme-streak-stats/issues/618) in [marsselu/github-readme-streak-stats](https://github.com/marsselu/github-readme-streak-stats)
 5. 🗣 Commented on [#616](https://github.com/marsselu/github-readme-streak-stats/issues/616) in [marsselu/github-readme-streak-stats](https://github.com/marsselu/github-readme-streak-stats)
-<!--END_SECTION:activity-->
+END_SECTION:activity
+ALTERAR-->
 
 <!-- ALTERAR PARA MEU GOSTO
   Aleksey-Voko<h3>🌟 Sponsors</h3>
 
   
   <a href="https://github.com/sponsors/marsselu/"><img src="https://raw.githubusercontent.com/marsselu/marsselu/main/metrics-sponsors.svg" /></a>
-ALTERAR PARA MEU GOSTO-->
+ALTERAR PARA MEU GOSTO
 </details>
+-->
 
 <!-- ALTERAR PARA MEU GOSTO
 <details> 
@@ -498,10 +501,12 @@ ALTERAR PARA MEU GOSTO-->
 ALTERAR PARA MEU GOSTO-->
 <br/>  
 
+<!-- ALTERAR PARA MEU GOSTO
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marsselu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marsselu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ALTERAR PARA MEU GOSTO-->
 
 <!--
 ### 🔝 Top Contributed Repo
