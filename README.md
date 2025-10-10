@@ -242,14 +242,16 @@ ALTERAR PARA MEU GOSTO-->
 5. 🗣 Commented on [#616](https://github.com/marsselu/github-readme-streak-stats/issues/616) in [marsselu/github-readme-streak-stats](https://github.com/marsselu/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
-  <h3>🌟 Sponsors</h3>
+<!-- ALTERAR PARA MEU GOSTO
+  Aleksey-Voko<h3>🌟 Sponsors</h3>
 
-  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
+  
   <a href="https://github.com/sponsors/marsselu/"><img src="https://raw.githubusercontent.com/marsselu/marsselu/main/metrics-sponsors.svg" /></a>
-
+ALTERAR PARA MEU GOSTO-->
 </details>
 
-<!-- ALTERAR PARA MEU GOSTO<details> 
+<!-- ALTERAR PARA MEU GOSTO
+<details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@marsselu"><img src="https://holopin.me/marsselu" alt="@marsselu&#39;s Holopin board"></a></p>
