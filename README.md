@@ -80,9 +80,9 @@
 
 <br/>
 
-
+<!-- ALTERAR PARA MEU GOSTO
 <details> 
-  <!-- ALTERAR PARA MEU GOSTO
+  
   <summary><h2>🛠️ My Favorite Tools</h2></summary>-->
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -249,12 +249,14 @@ ALTERAR PARA MEU GOSTO-->
 
 </details>
 
-<details> 
+<!-- ALTERAR PARA MEU GOSTO<details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@marsselu"><img src="https://holopin.me/marsselu" alt="@marsselu&#39;s Holopin board"></a></p>
 </details>
+ALTERAR PARA MEU GOSTO-->
 
+<!-- ALTERAR PARA MEU GOSTO
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -376,7 +378,7 @@ ALTERAR PARA MEU GOSTO-->
  </tr>
 </table>
 <br><br>
-
+ALTERAR PARA MEU GOSTO-->
 
 </div>
 
