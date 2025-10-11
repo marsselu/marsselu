@@ -24,8 +24,9 @@
 <p align="center">
   <a href="https://github.com/marsselu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/marsselu"/></a>
+  <a href="https://wakatime.com/@018d7ee7-09e9-45a4-86aa-89cb1877ce37"><img src="https://wakatime.com/badge/user/018d7ee7-09e9-45a4-86aa-89cb1877ce37.svg" alt="Total time coded since Feb 6 2024" /></a>
   <a href="https://github.com/marsselu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/marsselu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/marsselu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </p>
 
 <!--
@@ -470,6 +471,6 @@ ALTERAR PARA MEU GOSTO-->
 ![](https://github-contributor-stats.vercel.app/api?username=marsselu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 
-[![wakatime](https://wakatime.com/badge/user/018d7ee7-09e9-45a4-86aa-89cb1877ce37.svg)](https://wakatime.com/@018d7ee7-09e9-45a4-86aa-89cb1877ce37)
+
 
 <br/>  
