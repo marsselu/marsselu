@@ -470,5 +470,6 @@ ALTERAR PARA MEU GOSTO-->
 ![](https://github-contributor-stats.vercel.app/api?username=marsselu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 
+[![wakatime](https://wakatime.com/badge/user/018d7ee7-09e9-45a4-86aa-89cb1877ce37.svg)](https://wakatime.com/@018d7ee7-09e9-45a4-86aa-89cb1877ce37)
 
 <br/>  
