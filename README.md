@@ -22,9 +22,11 @@
 
 <br>
 <p align="center">
+  <a href="https://wakatime.com/@018d7ee7-09e9-45a4-86aa-89cb1877ce37"><img src="https://wakatime.com/badge/user/018d7ee7-09e9-45a4-86aa-89cb1877ce37.svg" alt="Total time coded since Feb 6 2024" /></a>
+  <br>
   <a href="https://github.com/marsselu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/marsselu"/></a>
-  <a href="https://wakatime.com/@018d7ee7-09e9-45a4-86aa-89cb1877ce37"><img src="https://wakatime.com/badge/user/018d7ee7-09e9-45a4-86aa-89cb1877ce37.svg" alt="Total time coded since Feb 6 2024" /></a>
+ <br>
   <a href="https://github.com/marsselu?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/marsselu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </p>
@@ -48,7 +50,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/marcelofsantos"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" style="filter: invert(32%) sepia(90%) saturate(4200%) hue-rotate(193deg) brightness(95%) contrast(90%);"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/marsselu"><img width="32px" alt="Dev.to" title="marsselu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/marsselu"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/marsselu"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -70,9 +72,9 @@
   <!--
   <a href="https://github.com/marsselu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/marsselu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  -->
-  <a href="https://github.com/marsselu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/marsselu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
+  <!--<a href="https://github.com/marsselu?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/marsselu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
   <!--
   <a href="https://github.com/marsselu/?tab=followers">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/marsselu-profile-views"/></a>
