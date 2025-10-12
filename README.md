@@ -12,6 +12,8 @@
 
 ![](https://github.com/marsselu/marsselu/blob/main/chat.svg)
 
+<br/>  
+<br/>  
 
 <div align="center">   
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>   
@@ -35,7 +37,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>   
 
 </div>  
-<br/>  
+
 <br/>  
 <br/>  
 
@@ -53,15 +55,22 @@
 
 
 <br>
-<p align="center">
+<div>
+  <p align="center">
   <a href="https://wakatime.com/@018d7ee7-09e9-45a4-86aa-89cb1877ce37"><img src="https://wakatime.com/badge/user/018d7ee7-09e9-45a4-86aa-89cb1877ce37.svg" alt="Total time coded since Feb 6 2024" /></a>
   <br>
-  <a href="https://github.com/marsselu?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/marsselu"/></a>
- <br>
+  <br>
   <a href="https://github.com/marsselu?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/marsselu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+ <!-- <a href="https://github.com/marsselu?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/marsselu"/></a>
+    -->
+ <br>
 </p>
+
+</div>
+
+  
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marsselu)]
