@@ -35,6 +35,9 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>   
 
 </div>  
+<br/>  
+<br/>  
+<br/>  
 
 
 <div align="center">   
