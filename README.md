@@ -76,7 +76,7 @@
 
 <br/>  
 <br/>  
-![snake animation](https://github.com/marsselu/marsselu/blob/output/github-contribution-grid-snake2.svg)<br/>  
+![github contribution grid snake animation](https://github.com/marsselu/marsselu/blob/dev/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
 <br/>  
 <br />
 
