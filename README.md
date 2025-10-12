@@ -76,7 +76,7 @@
 
 <br/>  
 <br/>  
-![snake animation](https://github.com/<marsselu>/<marsselu>/blob/output/github-contribution-grid-snake2.svg)<br/>  
+![snake animation](https://github.com/marsselu/marsselu/blob/output/github-contribution-grid-snake2.svg)<br/>  
 <br/>  
 <br />
 
