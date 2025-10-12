@@ -484,18 +484,9 @@ ALTERAR PARA MEU GOSTO-->
 
 <br/>  
 
-<!-- ALTERAR PARA MEU GOSTO
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marsselu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marsselu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-ALTERAR PARA MEU GOSTO-->
-
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=marsselu&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
-
+<div align="center">   
+<a href='https://ko-fi.com/S6S51MOMM0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div> 
 
 
 <br/>  
