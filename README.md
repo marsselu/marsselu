@@ -1,5 +1,4 @@
 <!--  ![Header](./github-header-image.png)      
-![Snake animation](https://github.com/marsselu/marsselu/blob/output/github-contribution-grid-snake.svg)
 
 -->
 
