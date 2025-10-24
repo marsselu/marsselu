@@ -116,12 +116,3 @@
 
 <br/>  
 <br/>
-
-
-
-## 📊 Linguagens utilizadas  
-
-![Gráfico de linguagens](./linguagens.png)
-
-_Relatório gerado automaticamente com [cloc](https://github.com/AlDanial/cloc) e Python._
-
