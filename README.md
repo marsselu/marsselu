@@ -119,7 +119,7 @@
 
 
 
-## 📊 Linguagens utilizadas 
+## 📊 Linguagens utilizadas  
 
 ![Gráfico de linguagens](./linguagens.png)
 
