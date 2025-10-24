@@ -115,8 +115,21 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-<br/>  
+<br/>
+
+
+
 ## 📊 Linguagens utilizadas 
+
+
+**C Shell**: 70 linhas de código
+- **Meson**: 60 linhas de código
+- **PowerShell**: 46 linhas de código
+- **Bourne Again Shell**: 43 linhas de código
+- **INI**: 32 linhas de código
+- **Nix**: 19 linhas de código
+- **zsh**: 3 linhas de código
+- **Lua**: 2 linhas de código
 
 ![Gráfico de linguagens](./linguagens.png)
 
