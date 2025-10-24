@@ -1,17 +1,6 @@
 <!--  ![Header](./github-header-image.png)   
-![github contribution grid snake animation](https://github.com/marsselu/marsselu/blob/dev/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
-<br/>  
+
 <br />
-
-
-<!--
-
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
--->   
-
--->
-
 <!-- Header / animação Hello World -->
 
 <!--<h1 align="center">
@@ -127,3 +116,9 @@
 
 <br/>  
 <br/>  
+## 📊 Linguagens utilizadas
+
+![Gráfico de linguagens](./linguagens.png)
+
+_Relatório gerado automaticamente com [cloc](https://github.com/AlDanial/cloc) e Python._
+
