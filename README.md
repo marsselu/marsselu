@@ -121,16 +121,6 @@
 
 ## 📊 Linguagens utilizadas 
 
-
-**C Shell**: 70 linhas de código
-- **Meson**: 60 linhas de código
-- **PowerShell**: 46 linhas de código
-- **Bourne Again Shell**: 43 linhas de código
-- **INI**: 32 linhas de código
-- **Nix**: 19 linhas de código
-- **zsh**: 3 linhas de código
-- **Lua**: 2 linhas de código
-
 ![Gráfico de linguagens](./linguagens.png)
 
 _Relatório gerado automaticamente com [cloc](https://github.com/AlDanial/cloc) e Python._
