@@ -1,118 +1,102 @@
-<!--  ![Header](./github-header-image.png)   
+# 🌟 Marcelo Santos 
 
-<br />
-<!-- Header / animação Hello World -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20FSantos-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marcelofsantos/)
+![Email](https://img.shields.io/badge/Email-dara.aragao17%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)
 
-<!--<h1 align="center">
-  <img src="./assets/hello-world.svg" alt="_id" />
-</h1>-->
+🚀 **SysAdmin | DevOps Engineer |Docker & Kubernetes specialist**  
+📍 Salvador, Brazil  
+🌐 Open to international opportunities
 
+---
 
-  **Olá, sou Marcelo Santos, profissional de tecnologia da informação!!**
+## 👋 About Me
 
-    Obrigado por visitar meu perfil do GitHub 
+I am a seasoned and versatile IT professional with 29 years of experience, including international experience. I possess a solid foundation in network infrastructure, server/system administration, and cloud computing, complemented by practical skills in scripting, automation, and security.
 
+Root Cause Analysis and troubleshothing, systems optmization and hardening, and architecting scalable solutions.
 
-#### Contacts
-<div> 
-  <a href="https://www.linkedin.com/in/marcelofsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
 <!--
-<h1 align="center">
-  <img src="./assets/chat_line1.svg" />
-  <img src="./assets/chat_line2.svg" />
-  <img src="./assets/chat_line3.svg" />
-  <img src="./assets/chat_line4.svg" />
-  <img src="./assets/chat_line5.svg" />
-  <img src="./assets/chat_line6.svg" />
-</h1>
+## 💼 Professional Experience
+
+### 🟩 **SRE / DevOps Engineer** – *PicPay*  
+📆 *2024 – 2026*
+
+- Led incident response and War Room operations
+- Built and managed scalable infrastructure using Terraform, Terragrunt, and Atlantis
+- Administered Kubernetes clusters (EKS) and AWS environments
+- Designed observability pipelines with Dynatrace and Grafana
+- Implemented CI/CD workflows with ArgoCD
+- Drove cloud cost optimization (FinOps)
+
+---
+
+### 🟨 **IT Analyst** – *AmbevTech*  
+📆 *2020 – 2023*
+
+- Automated and supported mission-critical operations
+- Developed dashboards and monitoring with Zabbix
+- Enhanced workflow automation with Jira and ServiceNow
+- Delivered technical documentation and internal trainings
 -->
+---
 
+## 🛠️ Tech Stack
 
-![](https://github.com/marsselu/marsselu/blob/main/chat.svg)
+### ☁️ **Cloud & Platforms**
+AWS (EKS, ECS, Load Balancer, S3, Route53, Cloudwatch, Cloudformation, VPCs, Security Groups)
 
+### 🚀 **Containers & Orchestration**
+Docker, Kubernetes, Helm, ArgoCD
 
+### 🧱 **Infrastructure as Code**
+Terraform
 
-<br/>  
-<br/>  
+### 🔍 **Observability & Monitoring**
+Prometheus, Grafana, Zabbix
 
-<div align="center">  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-<br/>  
+### 🔁 **CI/CD & Version Control**
+Git, GitHub, GitHub Actions
 
-<br/>  
-<div align="center">  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-<br/>  
+### 🧠 **Messaging & Data**
+Redis, Messaging Patterns
 
-<br/>  
-<div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
+---
 
-#### Skills 
-<div style="display: inline_block">
-  <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/Zabbix-red?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://github.com/marsselu" target="_blank"><img src="https://img.shields.io/badge/ShellScript-black?style=for-the-badge&logo=medium&logoColor=white"></a>
-<br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
-  ##
+## 🎓 Education
 
- <div>
-  <a href="https://github.com/marsselu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsselu&layout=compact&langs_count=7&theme=dracula"/>
+🎓 MBA in Project Management — *Univ. Gama Filho*  
+🎓 Technology Degree in Computer Networks — *UNIFACS*
 
-  </div>
-    
+---
 
-<br/>  
+## 🏅 Certifications
 
-<br/>  
-<div align="center">
-<a href="https://github.com/marsselu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+🥇 AWS Cloud Practitioner 
+🥇 Devops Foundations Certified 
+🥇 Scrum Foundations Certified  
 
-<br/>  
-<br/>  
+---
 
-<div align="center">
-            <a href="https://ko-fi.com/marsselu" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"/>
-            </a></div>
-            <br/> <br/> 
-<hr>
-<br/> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marsselu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 💡 What I’m Learning
 
-<br/>  
-<br/>
+📌 Advanced Kubernetes (security, scaling, multi-tenancy)  
+📌 Scalable & high-performance distributed systems  
+📌 Declarative GitOps for Kubernetes with ArgoCD
+📌 System Design
+📌 SRE (SLI/SLO/Error Budgets, Postmortem)
+
+---
+
+## 💬 Let’s Connect
+
+✨ I’m open to **collaboration, mentorship, speaking engagements, and international roles**.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/marcelofsantos)  
+📧 devops@marceleza.com  
+
+---
+
+## ❤️ Fun Fact
+
+I am a music lover, use to play some drums and learning trumpets. 
