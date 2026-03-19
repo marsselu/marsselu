@@ -1,9 +1,9 @@
 # 🌟 Marcelo Santos 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20FSantos-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marcelofsantos/)
-![Email](https://img.shields.io/badge/Email-dara.aragao17%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)
+![Email](https://img.shields.io/badge/Email-devops%40marceleza.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)
 
-🚀 **SysAdmin | DevOps Engineer |Docker & Kubernetes specialist**  
+🚀 **SysAdmin | DevOps Engineer | Docker & Kubernetes specialist**  
 📍 Salvador, Brazil  
 🌐 Open to international opportunities
 
@@ -72,7 +72,7 @@ Redis, Messaging Patterns
 
 ## 🏅 Certifications
 
-🥇 AWS Cloud Practitioner 
+🥇 AWS Cloud Practitioner
 🥇 Devops Foundations Certified 
 🥇 Scrum Foundations Certified  
 
@@ -82,8 +82,8 @@ Redis, Messaging Patterns
 
 📌 Advanced Kubernetes (security, scaling, multi-tenancy)  
 📌 Scalable & high-performance distributed systems  
-📌 Declarative GitOps for Kubernetes with ArgoCD
-📌 System Design
+📌 Declarative GitOps for Kubernetes with ArgoCD  
+📌 System Design  
 📌 SRE (SLI/SLO/Error Budgets, Postmortem)
 
 ---
