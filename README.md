@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20FSantos-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marcelofsantos/)
 ![Email](https://img.shields.io/badge/Email-devops%40marceleza.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)
 
-🚀 **SysAdmin | DevOps Engineer | Docker & Kubernetes specialist**  
+🚀 **SysAdmin | Infrastructure | DevOps Engineer | Docker & Kubernetes specialist**  
 📍 Salvador, Brazil  
 🌐 Open to international opportunities
 
@@ -11,7 +11,8 @@
 
 ## 👋 About Me
 
-I am a seasoned and versatile IT professional with 29 years of experience, including international experience. I possess a solid foundation in network infrastructure, server/system administration, and cloud computing, complemented by practical skills in scripting, automation, and security.
+I am a seasoned and versatile international IT professional with 29 years of experience. 
+I possess a solid foundation in network infrastructure, server/system administration, and cloud computing, complemented by practical skills in scripting, automation, and security.
 
 Root Cause Analysis and troubleshothing, systems optmization and hardening, and architecting scalable solutions.
 
@@ -72,9 +73,11 @@ Redis, Messaging Patterns
 
 ## 🏅 Certifications
 
-🥇 AWS Cloud Practitioner
-🥇 Devops Foundations Certified 
+🥇 AWS Certified Cloud Practitioner  
+🥇 Devops Foundations Certified   
 🥇 Scrum Foundations Certified  
+🥇 Inclusive Speaker (Linux Foundation)    
+🥇 Inclusive Open Source Community Orientation (Linux Foundation)  
 
 ---
 
