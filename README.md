@@ -1,5 +1,7 @@
 # 🌟 Marcelo Santos 
 
+[![wakatime](https://wakatime.com/badge/github/marsselu/marsselu.svg)](https://wakatime.com/badge/github/marsselu/marsselu)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20FSantos-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marcelofsantos/)
 ![Email](https://img.shields.io/badge/Email-devops%40marceleza.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)
 
