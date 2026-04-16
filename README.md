@@ -1,107 +1,104 @@
-# 🌟 Marcelo Santos 
+# 🌟 Marcelo Santos
 
-[![wakatime](https://wakatime.com/badge/github/marsselu/marsselu.svg)](https://wakatime.com/badge/github/marsselu/marsselu)
+### 🚀 DevOps | Kubernetes | SRE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20FSantos-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marcelofsantos/)
-![Email](https://img.shields.io/badge/Email-devops%40marceleza.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)
-
-🚀 **SysAdmin | Infrastructure | DevOps Engineer | Docker & Kubernetes specialist**  
-📍 Salvador, Brazil  
-🌐 Open to international opportunities
+Building and operating scalable, reliable, and automated infrastructure using Kubernetes, Cloud, and GitOps practices.
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 Professional Experience (Summary)
 
-I am a seasoned and versatile international IT professional with 29 years of experience. 
-I possess a solid foundation in network infrastructure, server/system administration, and cloud computing, complemented by practical skills in scripting, automation, and security.
+DevOps/SRE professional with international experience (Africa – Angola), working in large-scale and mission-critical environments across infrastructure and cloud platforms.
 
-Root Cause Analysis and troubleshothing, systems optmization and hardening, and architecting scalable solutions.
+Hands-on experience with Kubernetes, automation, observability, and troubleshooting, supporting production systems and improving reliability in distributed environments.
 
----
-<!--
-## 💼 Professional Experience
-
-### 🟩 **SRE / DevOps Engineer** – *PicPay*  
-📆 *2024 – 2026*
-
-- Led incident response and War Room operations
-- Built and managed scalable infrastructure using Terraform, Terragrunt, and Atlantis
-- Administered Kubernetes clusters (EKS) and AWS environments
-- Designed observability pipelines with Dynatrace and Grafana
-- Implemented CI/CD workflows with ArgoCD
-- Drove cloud cost optimization (FinOps)
-
----
-
-### 🟨 **IT Analyst** – *AmbevTech*  
-📆 *2020 – 2023*
-
-- Automated and supported mission-critical operations
-- Developed dashboards and monitoring with Zabbix
-- Enhanced workflow automation with Jira and ServiceNow
-- Delivered technical documentation and internal trainings
--->
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ **Cloud & Platforms**
-AWS (EKS, ECS, Load Balancer, S3, Route53, Cloudwatch, Cloudformation, VPCs, Security Groups)
+### ☁️ Cloud & Platforms
 
-### 🚀 **Containers & Orchestration**
+AWS (EKS, ECS, Load Balancer, S3, Route53, CloudWatch, CloudFormation, VPC, Security Groups)
+
+### 🚀 Containers & Orchestration
+
 Docker, Kubernetes, Helm, ArgoCD
 
-### 🧱 **Infrastructure as Code**
+### 🧱 Infrastructure as Code
+
 Terraform
 
-### 🔍 **Observability & Monitoring**
+### 🔍 Observability & Monitoring
+
 Prometheus, Grafana, Zabbix
 
-### 🔁 **CI/CD & Version Control**
+### 🔁 CI/CD & Version Control
+
 Git, GitHub, GitHub Actions
 
-### 🧠 **Messaging & Data**
+### 🧠 Messaging & Data
+
 Redis, Messaging Patterns
+
+---
+
+## 🔑 Key Skills
+
+* Kubernetes (Deployments, Networking, Storage, GitOps)
+* CI/CD pipeline design and automation
+* Infrastructure as Code (Terraform)
+* Observability and monitoring systems
+* Cloud architecture (AWS)
+* Troubleshooting distributed systems
+* Reliability engineering principles (SRE)
 
 ---
 
 ## 🎓 Education
 
-🎓 MBA in Project Management — *Univ. Gama Filho*  
+🎓 MBA in Project Management — *Univ. Gama Filho*
 🎓 Technology Degree in Computer Networks — *UNIFACS*
 
 ---
 
 ## 🏅 Certifications
 
-🥇 AWS Certified Cloud Practitioner  
-🥇 Devops Foundations Certified   
-🥇 Scrum Foundations Certified  
-🥇 Inclusive Speaker (Linux Foundation)    
-🥇 Inclusive Open Source Community Orientation (Linux Foundation)  
+* AWS Certified Cloud Practitioner
+* DevOps Foundations Certified
+* Scrum Foundations Certified
+* Inclusive Speaker — Linux Foundation
+* Inclusive Open Source Community Orientation — Linux Foundation
 
 ---
 
-## 💡 What I’m Learning
+## 📚 What I’m Learning
 
-📌 Advanced Kubernetes (security, scaling, multi-tenancy)  
-📌 Scalable & high-performance distributed systems  
-📌 Declarative GitOps for Kubernetes with ArgoCD  
-📌 System Design  
-📌 SRE (SLI/SLO/Error Budgets, Postmortem)
-
----
-
-## 💬 Let’s Connect
-
-✨ I’m open to **collaboration, mentorship, speaking engagements, and international roles**.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/marcelofsantos)  
-📧 devops@marceleza.com  
+* Advanced Kubernetes (security, scaling, multi-tenancy)
+* Distributed systems and system design
+* GitOps workflows with ArgoCD
+* Site Reliability Engineering (SLI, SLO, Error Budgets, Postmortems)
 
 ---
 
-## ❤️ Fun Fact
+## 🌍 Open to Opportunities
 
-I am a music lover, use to play some drums and learning trumpets. 
+I’m open to:
+
+* DevOps / SRE / Kubernetes roles
+* International opportunities
+* Collaboration and technical speaking
+
+---
+
+## 📫 Contact
+
+🔗 [LinkedIn](https://www.linkedin.com/in/marcelofsantos)
+📧 [devops@marceleza.com](mailto:devops@marceleza.com)
+
+---
+
+## 🎵 Fun Fact
+
+Music enthusiast 🎶 — I used to play drums and I'm currently learning trumpets.
+
+---
