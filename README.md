@@ -1,12 +1,12 @@
-# 🌟 Marcelo Santos
+# Marcelo Santos
 
-### 🚀 DevOps | Kubernetes | SRE
+## DevOps | Kubernetes | SRE
 
 Building and operating scalable, reliable, and automated infrastructure using Kubernetes, Cloud, and GitOps practices.
 
 ---
 
-## 🧑‍💻 Professional Experience (Summary)
+## Professional Experience (Summary)
 
 DevOps/SRE professional with international experience (Africa – Angola), working in large-scale and mission-critical environments across infrastructure and cloud platforms.
 
@@ -14,35 +14,35 @@ Hands-on experience with Kubernetes, automation, observability, and troubleshoot
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☁️ Cloud & Platforms
+### Cloud & Platforms
 
-AWS (EKS, ECS, Load Balancer, S3, Route53, CloudWatch, CloudFormation, VPC, Security Groups)
+* AWS (EKS, ECS, Load Balancer, S3, Route53, CloudWatch, CloudFormation, VPC, Security Groups)
 
-### 🚀 Containers & Orchestration
+### Containers & Orchestration
 
-Docker, Kubernetes, Helm, ArgoCD
+* Docker, Kubernetes, Helm, ArgoCD
 
-### 🧱 Infrastructure as Code
+### Infrastructure as Code
 
-Terraform
+* Terraform
 
-### 🔍 Observability & Monitoring
+### Observability & Monitoring
 
-Prometheus, Grafana, Zabbix
+* Prometheus, Grafana, Zabbix
 
-### 🔁 CI/CD & Version Control
+### CI/CD & Version Control
 
-Git, GitHub, GitHub Actions
+* Git, GitHub, GitHub Actions
 
-### 🧠 Messaging & Data
+### Messaging & Data
 
-Redis, Messaging Patterns
+* Redis, Messaging Patterns
 
 ---
 
-## 🔑 Key Skills
+## Key Skills
 
 * Kubernetes (Deployments, Networking, Storage, GitOps)
 * CI/CD pipeline design and automation
@@ -54,14 +54,14 @@ Redis, Messaging Patterns
 
 ---
 
-## 🎓 Education
+## Education
 
-🎓 MBA in Project Management — *Univ. Gama Filho*
-🎓 Technology Degree in Computer Networks — *UNIFACS*
+* MBA in Project Management — Univ. Gama Filho
+* Technology Degree in Computer Networks — UNIFACS
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 * AWS Certified Cloud Practitioner
 * DevOps Foundations Certified
@@ -71,7 +71,7 @@ Redis, Messaging Patterns
 
 ---
 
-## 📚 What I’m Learning
+## What I’m Learning
 
 * Advanced Kubernetes (security, scaling, multi-tenancy)
 * Distributed systems and system design
@@ -80,9 +80,7 @@ Redis, Messaging Patterns
 
 ---
 
-## 🌍 Open to Opportunities
-
-I’m open to:
+## Open to Opportunities
 
 * DevOps / SRE / Kubernetes roles
 * International opportunities
@@ -90,15 +88,16 @@ I’m open to:
 
 ---
 
-## 📫 Contact
+## Contact
 
-🔗 [LinkedIn](https://www.linkedin.com/in/marcelofsantos)
-📧 [devops@marceleza.com](mailto:devops@marceleza.com)
+* LinkedIn: https://www.linkedin.com/in/marcelofsantos
+* Email: [devops@marceleza.com](mailto:devops@marceleza.com)
+
+---
+
+## Personal
+
+Music enthusiast — I used to play drums and I'm currently learning trumpet.
 
 ---
 
-## 🎵 Fun Fact
-
-Music enthusiast 🎶 — I used to play drums and I'm currently learning trumpets.
-
----
